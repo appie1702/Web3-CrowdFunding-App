@@ -1,0 +1,6 @@
+client/node_modules/
+client/dist/
+client/.env
+
+thirdweb-contracts/node_modules/
+thirdweb-contracts/.env
